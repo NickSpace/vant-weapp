@@ -12,9 +12,9 @@ export default {
       href: '#/'
     },
     nav: {
-      'Vue 组件': 'https://youzan.github.io/vant/',
-      '小程序组件': 'https://youzan.github.io/vant-weapp/',
-      github: 'https://github.com/youzan/vant-weapp'
+      'Vue 组件': 'https://gitdoc.nickspace.cn/vant/',
+      '小程序组件': 'https://gitdoc.nickspace.cn/vant-weapp/',
+      github: 'https://github.com/NickSpace/vant-weapp'
     }
   },
   nav: [

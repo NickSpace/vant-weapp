@@ -236,7 +236,7 @@
 
 在 0.5.0 版本中，我们统一图标规范并重绘了所有图标，同时增加约 100 个新图标。对于同一个图标，我们会提供`实底`和`线框`两种风格，以星星图标为例，`star`表示实底风格的星星，`star-o`表示线框风格的星星。
 
-<img width="375" height="124" src="//img.yzcdn.cn/vant/icon-style-1222.png">
+<img width="375" height="124" src="http://img.yzcdn.cn/vant/icon-style-1222.png">
 
 同时我们也对原有图标做了一定调整，具体改动如下：
 
